@@ -7,7 +7,7 @@ class StatesController < ApplicationController
   end
 
   def create
-    @state = State.create(state_params)
+    @state = State.create!(state_params)
     json_response(@state, :created)
   end
 
