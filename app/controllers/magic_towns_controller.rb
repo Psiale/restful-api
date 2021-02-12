@@ -1,0 +1,2 @@
+class MagicTownsController < ApplicationController
+end
