@@ -4,12 +4,12 @@ class MagicTownsController < ApplicationController
 
   def index
     @magic_towns = MagicTown.all
-    json_response(@magic_towns)
+    json_response(@state.magic_towns)
   end
 
   def create
-    @magic_town = MagicTown.create!(magic_town_params)
-    json_response(@magic_town, :created)
+    @state.magic_towns.create!(magic_town_params)
+    json_response(@state, :created)
   end
 
   def show
@@ -29,7 +29,7 @@ class MagicTownsController < ApplicationController
   private
 
   def magic_town_params
-    params.permit(:name)
+    params.permit(:name, :characteristics, :attractions, :festivities, :location, :state_id)
   end
 
   def set_state
@@ -37,7 +37,7 @@ class MagicTownsController < ApplicationController
   end
 
   def set_magic_town
-    @magic_town = MagicTown.find(params[:id])
+    @magic_town = @state.magic_towns.find_by!(params[:id]) if @state
   end
 
 end
