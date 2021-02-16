@@ -29,7 +29,7 @@ class MagicTownsController < ApplicationController
   private
 
   def magic_town_params
-    params.permit(:name, :characteristics, :attractions, :festivities, :location, :state_id)
+    params.permit(:name, :characteristics, :attractions, :festivities, :location, :state_id, :id)
   end
 
   def set_state
@@ -37,7 +37,7 @@ class MagicTownsController < ApplicationController
   end
 
   def set_magic_town
-    @magic_town = @state.magic_towns.find_by!(params[:id]) if @state
+    @magic_town = @state.magic_towns.find(params[:id]) if @state
   end
 
 end
