@@ -317,15 +317,15 @@ town39 = MagicTown.create(name: "Mascota",
 town40 = MagicTown.create(name: "Talpa de Allende",
                         characteristics: 'Se incorporó al programa "Pueblos Mágicos" en 2015.Talpa: palabra náhuatl que significa "sobre la tierra".El 18 de septiembre de 1885, se da al pueblo la categoría de "villa", añadiéndole además "de Allende", en honor al General Ignacio Allende. Llamándose a partir de tan solemne fecha y con carácter oficial "Villa de Talpa de Allende"',
                         attractions: "​​​​​Altar e Imagen de la Virgen del Rosario de Talpa.Basílica de Nuestra Señora   del Rosario de Talpa.Parroquia de Señor San José.Bosque de Maple.Foro del Bicentenario.Parque la Alameda.Arco Monumental de Ingreso a Talpa.Capilla de la Resurrección.Capilla de San Gabriel.Capilla de San Rafael.Capilla de San Miguel.Capilla del Mineral de El Cuale.Capilla de Concepción del Bramador.Monumento a Cristo Rey.Capilla de La Cruz de Romero.Monumento al Peregrino.Museo de Nuestra Señora del Rosario de Talpa",
-                        festivities: "",
-                        location: "​​",
+                        festivities: "Fiesta de Nuestra Señora del Rosario, del 5 al 7 de Octubre​.San José, del 11  al 19 de Marzo.Feria de la Guayaba",
+                        location: "Limit​a al norte con Mascota y Puerto Vallarta; al sur con Tomatlán; al oriente con Atenguillo y Mascota, y al poniente con Cabo Corrientes​​",
                         state_id: 13)
 
 town41 = MagicTown.create(name: "Tepotzotlán",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "​​",
                         state_id: 14)
 
 town42 = MagicTown.create(name: "Valle de Bravo",
