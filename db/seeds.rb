@@ -385,19 +385,19 @@ town49 = MagicTown.create(name: "Villa del Carbón​​​​​​​​",
                         state_id: 14)
 
 town50 = MagicTown.create(name: "Pátzcuaro",
-                        characteristics: "",
-                        attractions: "​​​​​",
-                        festivities: "",
-                        location: "​​",
+                        characteristics: "En Pátzcuaro los purépechas establecieron un importante centro cer​emonial, mismo que fundó Curátame en 1324 y que fue gobernado por Tariácuri a partir de 1372.​Su nombre significa “la puerta del cielo” y fue el principal centro religioso de esta civilización puesto que se creía que aquí ascendían y descendían los dioses.​​​​Pátzcuaro fue una de las primeras ciudades fundadas por los purépechas, también conocidos como tarascos, hacia el año 1300",
+                        attractions: "Antiguo Colegio de San Nicolás​.Casa de los Once Patios.Plaza Vasco de Quiroga.​Templo del Sagrario.Basilica de la Virgen de la Salud.Templo y Hospital de San Juan de Dios. La Plaza de San Francisco.Palacio de Huitziméngari.Biblioteca Pública Gertrudis Bocanegra. Teatro Emperador Caltzontzin​​​​​​",
+                        festivities: "Día de Muertos, del 1 al 2 de noviembre​Día de la Virgen ​de la Salud, del 7 al 8 de diciembre​Aniversario de la Fundación de la Ciudad, se celebra el 28 de septiembre",
+                        location: "Se localiza al centro del Estado, limita al norte con Tzintzuntzan, al este con Huiramba, al sur con Salvador Escalante, y al oeste con Tingambato y Erongarícuaro​​",
                         state_id: 15)
 
 town51 = MagicTown.create(name: "​​Tlalpujahua",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "Se localiza al centro del Estado, limita al norte con Tzintzuntzan, al este con Huiramba, al sur con Salvador Escalante, y al oeste con Tingambato y Erongarícuaro",
+                        attractions: "Santuario de Nuestra Señora del Carmen.Museo Hermanos López Rayón.​​Torre del Carmen. Mina Las Dos Estrellas.Iglesia de Santiago Puxtla​",
+                        festivities: "Virgen del Carmen, se celebra el 16 de julio y todas las comunidades de Tlalpujahua peregrinan hacia el Santuario del Carmen.Feria de la Esfera, se lleva a cabo de octubre y diciembre, con exposición de esferas, árboles y otros ornamentos, alusivos a la navidad.​​Feratum Film Fest, a inicios de octubre se lleva a cabo este festival internacional dedicado al cine fantástico, de terror y de ciencia ficción​.Fiestas del Campo del Gallo, se celebra el 13 de noviembre y se realiza un acto cívico que reúne a toda la comunidad​​",
+                        location: "​​Se localiza al noroeste del Estado​, Limita al norte con Contepec, al este y sur con el Estado de México y, al oeste con Senguio y Maravatío​",
                         state_id: 15)
-
+#me quedé aquí
 town52 = MagicTown.create(name: "​Cuitzeo",
                         characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
                         attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
