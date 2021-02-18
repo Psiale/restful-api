@@ -462,121 +462,54 @@ town59 = MagicTown.create(name: "Tlayacapan",
                         
                         Tour por el corredor arqueológico​",
                         festivities: "Carnaval, se lleva a cabo tres días antes del miércoles de ceniza y se celebra con el tradicional Brinco del Chinelo",
-                        location: "Se encuentra localizado en la parte Noreste del Estado de Morelos, sus colindancias son las siguientes: al Norte con el municipio de Tlalnepantla; al Sur, con el municipio de Yautepec; al Este​ con el municipio de Totolapan y Atlatlahucan"
+                        location: "Se encuentra localizado en la parte Noreste del Estado de Morelos, sus colindancias son las siguientes: al Norte con el municipio de Tlalnepantla; al Sur, con el municipio de Yautepec; al Este​ con el municipio de Totolapan y Atlatlahucan",
                         state_id: 16)
 
 town60 = MagicTown.create(name: "Jala",
                         characteristics: '​​Se incorporó al programa Pueblos Mágicos en el año 2012.
-
-                        El nombre de Jala se deriva del vocablo náhuatl “Xali” que significa arena, y de la variante “Tla”, que hace referencia a “lugar donde abunda”.​
-                        
+                        El nombre de Jala se deriva del vocablo náhuatl “Xali” que significa arena, y de la variante “Tla”, que hace referencia a “lugar donde abunda”​
                         Jala fue el primer asentamiento con pobladores de origen náhuatl y fue evangelizado por los frailes de Ahuacatlán.​
-                        
                         Pasó de pueblo a villa el 5 de febrero de 1918, con la promulgación de la Constitución Política del Estado de Nayarit, quedando integ​rado como municipio de esta entidad.​',
-                        attractions: "Basílica Lateranense de Nuestra Señora de la Asunción.
-
-                        Antigua Capilla de San Francisco.
-                        
-                        Museo Comunitario de Jala.
-                        
+                        attractions: "Basílica Lateranense de Nuestra Señora de la Asunción.Antigua Capilla de San Francisco.Museo Comunitario de Jala.
                         Volcán del Ceboruco​",
                         festivities: "​Feria del Elote. Se realiza el 15 de agosto con actividades recreativas, danzas, exposiciones y juegos.
-
                         Semana santa, en Jala se lleva a cabo una de las representacion​es más interesantes de la Pasión de Cristo​",
                         location: "El municipio de Jala se localiza en la parte sur del Estado de Nayarit, limita al norte con los municipios de Santa María del Oro y La Yesca; al sur con los municipios de Ahuacatlán e Ixtlán del Río​​​​",
                         state_id: 17)
 
 town61 = MagicTown.create(name: "Sayulita",
-                        characteristics: '
-                        Año de Incorporación al Programa Pueblos Mágicos 2015​.Al sur de la costa de Nayarit, en la región de Bahía de Banderas se encuentra Sayulita, pequeño paraíso adornado por la hermosura del mar, la reciedumbre de los acantilados, ríos, lagunas y los esteros plenos de vida marítima, las playas plácidas de arena blanca características naturales de sus olas, para eventos internacionales de Surf.Sus olas marítmas, idoneas para ​​competencias de "Surf" de carácter internacional',
+                        characteristics: 'Año de Incorporación al Programa Pueblos Mágicos 2015​.Al sur de la costa de Nayarit, en la región de Bahía de Banderas se encuentra Sayulita, pequeño paraíso adornado por la hermosura del mar, la reciedumbre de los acantilados, ríos, lagunas y los esteros plenos de vida marítima, las playas plácidas de arena blanca características naturales de sus olas, para eventos internacionales de Surf.Sus olas marítmas, idoneas para ​​competencias de "Surf" de carácter internacional',
                         attractions: "
                         ​​​​​El panteón de Sayulita.La Plaza Pública.El Salón Ejidal.El Estadio o Unidad Deportiva.El Cerro del Mono.Las Playas: Los Muertos, Kestos y Patzcuarito.Rutas de ciclismo de montaña.Paisaje del Rey.Sitios de anidación (avistamiento de aves y avistamiento de ballenas)",
-                        festivities: "
-                        F​estival Bahía de Banderas​ en Febrero",
-                        location: "Ubicado en el Municipio de Bahía de Banderas.Colinda al norte con el Municipio de Compostela, al este con el Estado de Jalisco, al sur con el Océano Pacífico y al oeste con el Océano Pacífico
-                        
-                        Durante los meses de julio y de agosto se lleva a cabo esta feria, con exposiciones artesanales, comerciales e industriales, desfiles charros y cabalgata, carreras de caballos, charreadas y escaramuzas",
-                        location: "inares se encuentra al sureste de la ciudad de Monterrey, en la región Llanura Costera del Golfo. Sus límites son al norte con los municipios de Hualahuises y Montemorelos; al sur y este con el E​stado de Tamaulipas y al oeste con los municipios de Galeana e Iturbide",
+                        festivities: "F​estival Bahía de Banderas​ en Febrero",
+                        location: "Ubicado en el Municipio de Bahía de Banderas.Colinda al norte con el Municipio de Compostela, al este con el Estado de Jalisco, al sur con el Océano Pacífico y al oeste con el Océano Pacífico",
                         state_id: 17)
 
 town62 = MagicTown.create(name: "Santiago",
                         characteristics: 'Se incorporó al programa Pueblos Mágicos en el año 2006.
-
                         ​El 21 de marzo de 1831, el Congreso del Estado de Nuevo León, concede el rango de "Villa" al hasta entonces valle de Santiago del Guajuco.​​​​​​
-                        
                         Originalmente estas tierras que hoy conforman al municipio de Santiago, fueron habitadas por tribus nómadas recolectoras de indios "guachichiles", principalmente de las naciones "Rayados" y "Borrados".',
-                        attractions: "​​Presa de la Boca.
-
-                        Cascada Cola de Caballo​.
-                        
-                        Plaza principal.
-                        
-                        Parroquia de Santiago Apóstol.
-                        
-                        Museo de Historia de Santiago.
-                        
-                        Plaza Hidalgo ",
+                        attractions: "​​Presa de la Boca.Cascada Cola de Caballo​.Plaza principal.Parroquia de Santiago Apóstol.Museo de Historia de Santiago.Plaza Hidalgo ",
                         festivities: "Muestra gastronómica, el primer sábado de junio se realiza una muestra gastronómica en la que los restaurantes de la zona se reúnen para ofrecer platillos regionales e internacionales así como postres y bebidas típicas​.
-
-                        San Pedro y San Pablo, el 29 de junio se celebra a estos santos en la plaza con misas y procesiones.​
-                        
-                        Señor Santiago, el 25 de julio se celebra al patrono del pueblo​
-                        
-                        Festival de la Manzana, en la segunda quincena de agosto se reúnen los productores de la zona y exhiben sus frutos y comida derivada de la manzana",
+                        San Pedro y San Pablo, el 29 de junio se celebra a estos santos en la plaza con misas y procesiones.​Señor Santiago, el 25 de julio se celebra al patrono del pueblo​ Festival de la Manzana, en la segunda quincena de agosto se reúnen los productores de la zona y exhiben sus frutos y comida derivada de la manzana",
                         location: "La ubicación de este municipio se encuentra en las inmediaciones​ de la Sierra Madre Oriental​.​",
                         state_id: 18)
 
 town63 = MagicTown.create(name: "Linares",
-                        characteristics: '​​​​​Se incorporó al programa Pueblos Mágicos en el año 2015.
-
-                        ​​​Su denominación actual proviene de su nombre antiguo de villa de San Felipe de Linares, fundada el 10 de abril de 1712. Lleva el nombre en memoria del trigésimo quinto virrey Fernando de Alencastre, Duque de Linares, erigiéndose como ciudad el 19 de mayo de 1777.​
+                        characteristics: '​​​​​Se incorporó al programa Pueblos Mágicos en el año 2015.​​​Su denominación actual proviene de su nombre antiguo de villa de San Felipe de Linares, fundada el 10 de abril de 1712. Lleva el nombre en memoria del trigésimo quinto virrey Fernando de Alencastre, Duque de Linares, erigiéndose como ciudad el 19 de mayo de 1777.​
                         Gastronomía: Carne seca, machacado, cabrito al pastor y en salsa, cortes de carne asada, tacos agachados, tortas compuestas, glorias, cajetas, marquetas, encanelados, besos de indios y natillas.',
                         attractions: 'Ex Hacienda de Guadalupe [Facultad de Ciencias de la Tierra, Universidad Autónoma de Nuevo León].
-
-                        Botica Morelos.
-                        
-                        Plaza de Armas.
-                        
-                        Acueducto Colonial.
-                        
-                        Catedral de San Felipe Apóstol.
-                        
-                        Casino de Linares.
-                        
-                        Templo del Señor de la Misericordia.
-                        
-                        Riveras del Río Pablillo.
-                        
-                        Cañón de Jaures​​​​​​​',
+                        Botica Morelos.Plaza de Armas.Acueducto Colonial.Catedral de San Felipe Apóstol.Casino de Linares.Templo del Señor de la Misericordia.Riveras del Río Pablillo.Cañón de Jaures​​​​​​​',
                         festivities: "La Feria de Villaseca; durante los meses de julio y de agosto se lleva a cabo esta feria, con exposiciones artesanales, comerciales e industriales, desfiles charros y cabalgata, carreras de caballos, charreadas y escaramuzas",
-                        location: "​Linares se encuentra al sureste de la ciudad de Monterrey, en la región Llanura Costera del Golfo. 
-                        Sus límites son al norte con los municipios de Hualahuises y Montemorelos; al sur y este con el E​stado de Tamaulipas y al oeste con los municipios de Galeana e Iturbide",
+                        location: "​Linares se encuentra al sureste de la ciudad de Monterrey, en la región Llanura Costera del Golfo.Sus límites son al norte con los municipios de Hualahuises y Montemorelos; al sur y este con el E​stado de Tamaulipas y al oeste con los municipios de Galeana e Iturbide",
                         state_id: 18)
 
 town64 = MagicTown.create(name: "​Capulálpam de Méndez",
                         characteristics: 'Se incorporó al programa Pueblos Mágicos en el año 2007.
-
-                        En Capulálpam se puede encontrar desde hermosos templos coloniales hasta parajes perfectos para escalar, realizar tranquilas caminatas y observar los bosques de coníferas de la Sierra de Juárez. ​
-                        
-                        En los talleres artesanales de Capulálpam serás testigo de la rica tradición de medicina indígena: los atributos de plantas medicinales, sus procesos de preparación y aplicación práctica.​
-                        
-                        Recibe el nombre de Capulalpam por la abundancia de el árbol capulin; en lengua náhuatl significa: "tierra del árbol de capulin"',
-                        attractions: "Parroquía de San Mateo
-
-                        Centro de Medicina Indígena Tradicional
-                        
-                        Centro Recreativo los Molinos 
-                        
-                        ​Mirador de la Cruz​​​​​",
-                        festivities: "Feria de San Juan: Se celebra del 22 al 24 de junio con cabalgatas, palenque y carreras de caballos.​
-
-                        ​Aniversario de pueblo mágico: Se efectúa cada 6 de octubre. En el festejo hay una muestra gastronómica, presentaciones culturales y fuegos pirotécnicos.​
-                        
-                        Día de Santa Úrsula: El 21 de octubre se festeja el Día de Santa Úrsula, patrona del pueblo, se hacen eventos religiosos y recreativos.​
-                        
-                        Fiesta de la virgen de Guadalúpe: Del 10 al 12 de diciembre se festeja en todo el pueblo, con miles de velas encendidas en calles, puertas y ventanas; también hay serenatas y fuegos artificiales",
+                        En Capulálpam se puede encontrar desde hermosos templos coloniales hasta parajes perfectos para escalar, realizar tranquilas caminatas y observar los bosques de coníferas de la Sierra de Juárez.En los talleres artesanales de Capulálpam serás testigo de la rica tradición de medicina indígena: los atributos de plantas medicinales, sus procesos de preparación y aplicación práctica.​Recibe el nombre de Capulalpam por la abundancia de el árbol capulin; en lengua náhuatl significa: "tierra del árbol de capulin"',
+                        attractions: "Parroquía de San Mateo.Centro de Medicina Indígena Tradicional.Centro Recreativo los Molinos. Mirador de la Cruz​​​​​",
+                        festivities: "Feria de San Juan: Se celebra del 22 al 24 de junio con cabalgatas, palenque y carreras de caballos.​​Aniversario de pueblo mágico: Se efectúa cada 6 de octubre. En el festejo hay una muestra gastronómica, presentaciones culturales y fuegos pirotécnicos.​Día de Santa Úrsula: El 21 de octubre se festeja el Día de Santa Úrsula, patrona del pueblo, se hacen eventos religiosos y recreativos.​Fiesta de la virgen de Guadalúpe: Del 10 al 12 de diciembre se festeja en todo el pueblo, con miles de velas encendidas en calles, puertas y ventanas; también hay serenatas y fuegos artificiales",
                         location: "​​Ubicado en la Sierra Madre Oriental.
-
                         Limita al norte con el municipio de Culiacán y el estado de Durango, al sur con los municipios de San Ignacio y Elota, al oriente con el estado de Durango y el municipio de San Ignacio y al poniente con los municipios de Culiacán y Elota",
                         state_id: 19)
 
@@ -609,349 +542,345 @@ town65 = MagicTown.create(name: "​Huautla de Jiménez​",
                         
                         Los representativos Sones Mazatecos.
                         
-                        Festividad de las 3 caídas el 3er viernes de Cuaresma"
+                        Festividad de las 3 caídas el 3er viernes de Cuaresma",
                         location: "​Huautla de Jiménez se localiza al noroeste de la Capital del estado y se sitúa a 254 Km.
 
                         El Municipio de Huautla de Jiménez colinda al norte con Santa María Chilchotla y San José Tenango​​",
                         state_id: 19)
 
 town66 = MagicTown.create(name: "​Mazunte",
-                        characteristics: "Se incorporó ​al programa Pueblos Mágicos ​en el año 2015.
-
-                        ​Mazunte, debe su nombre a un cangrejo azul, muy numeroso en la zona. Esta playa perteneciente a la localidad de Mazunte, posee una extensión de un kilómetro de arena dorada, bañada por aguas templadas y cristalinas, con hermosas tonalidades verdes y azules.",
-                        attractions: "Centro ​Mexicano de la Tortuga.
-
-                        Punta Cometa.
-                        
-                        La Ventanilla​.
-                        
-                        Playa Rinconcito.
-                        
-                        Playa Bermejita​​​​​",
-                        festivities: "Fiesta Popular del Santo Patrón de Esquipulas [Enero].
-
-                        Festival del Circo [Febrero].
-                        
-                        Fiestas de Equinoccio de la Primavera.
-                        
-                        Festival de Jazz de Mazunte [Noviembre]​",
-                        location: "​​Este Pueblo Mágico, se encuentra dentro del Municipio de Santa María Tonameca, localizado al sur del Estado de Oaxaca en la región de la Costa.
-                        Colinda al sur con el Océano Pacífico; al norte con los municipios de San Bartolomé Loxicha, El espinal y Santo Domingo.
+                        characteristics: "Se incorporó ​al programa Pueblos Mágicos ​en el año 2015.Mazunte, debe su nombre a un cangrejo azul, muy numeroso en la zona. Esta playa perteneciente a la localidad de Mazunte, posee una extensión de un kilómetro de arena dorada, bañada por aguas templadas y cristalinas, con hermosas tonalidades verdes y azules.",
+                        attractions: "Centro ​Mexicano de la Tortuga.Punta Cometa.La Ventanilla​.Playa Rinconcito.Playa Bermejita​​​​​",
+                        festivities: "Fiesta Popular del Santo Patrón de Esquipulas [Enero].Festival del Circo [Febrero].Fiestas de Equinoccio de la Primavera.Festival de Jazz de Mazunte [Noviembre]​",
+                        location: "​​Este Pueblo Mágico, se encuentra dentro del Municipio de Santa María Tonameca, localizado al sur del Estado de Oaxaca en la región de la Costa.Colinda al sur con el Océano Pacífico; al norte con los municipios de San Bartolomé Loxicha, El espinal y Santo Domingo.
                         ​Mazunte se encuentra a 8 km al oeste de Puerto Ángel, para llegar se recomenda seguir la carretera federal No. 175 desde la ciudad de Oaxaca, y después seguir por una carretera secundaria hasta el pueblo de Mazunte",
                         state_id: 19)
 
 town67 = MagicTown.create(name: "​San Pablo​ ​​Villa de Mitla​​",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                       festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: 'Se incorporó ​al programa Pueblos Mágicos ​en el año 2015.El nombre de Mitla proviene del náhuatl "Mictlan", que significa: "Lugar de descanso" y se refiere a un lugar relacionado con los muertos. San Pablo en honor de uno de los apóstoles de Jesús.​La zona arqueológica de Mitla, es el segundo centro ceremonial más importante en el estado de Oaxaca después de Monte Albán.',
+                        attractions: 'Mitla.Yagul.Dainzú.Lambityeco.​​​​​Templo de Santa María de la Asunción.Templo y Ex Convento de San Jerónimo.Mercado de Artesanías.Museo comunitario "Balaa-Xtee Guech Gulal"​.El árbol del Tule.Las cascadas petrificadas de Hierve el Agua.Las Cuevitas.Presa "Piedra Azul".Piedra "Tecolote".Zoológico "Yaguar Xoo"​​​​​',
+                        festivities: 'Fiesta de Santiago Apóstol [25 de Enero].Fiesta de San Pedro y San Pablo [15 y 16 de Agosto] .Representación de bodas tradicionales',
+                        location: 'Se localiza en la Región de los Valles Centrales, a 46 kilómetros de la capital Oaxaqueña, pertenece al Distrito de Tlacolula.​
+                        Colinda al norte con los Municipios de Santo Domingo Albarradas y Villa Díaz Ordaz, ambos pertenecen al mismo distrito; al sur con Tlacolula de Matamoros; al oeste con Tlacolula de Matamoros y Villa Díaz Ordaz; al este con San Lorenzo Albarradas y Santo Domingo Albarradas',
                         state_id: 19)
 
 town68 = MagicTown.create(name: "​​San Pedro y San Pablo",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "Se incorporó al programa de Pueblos Mágicos en 2015 .
+                        El pueblo fue fundado en 1520 con el nombre de San Pedro y San Pablo.
+                        En el centro encontraras construcciones de estilo clásico,  podras escuchar el sonido de las campanas, música de violin y guitarra",
+                        attractions: 'Ex Convento de San Pedro y San Pablo Teposcolula.
+                        Capilla de Santa Gertrudis.
+                        Los cerros "Pueblo Viejo" y "Peña de León".
+                        Capilla de San Francisco.
+                        ​Templo de Guadalupe Tixá.
+                        Templo de San Miguel Tixá
+                        Templo de San Felipe Ixtapa',
+                        festivities: "Festejo en honor de San Pedro y San Pablo patrones del pueblo realizadas el 28 y 29 de junio.
+                        Festejo al Señor de las Vidrieras en el primer viernes de cuaresma.
+                        Festejo en honor al Padre Jesús llevada a cabo el 06 de Agosto",
+                        location: "Está a 120 kilómetros al noroeste de la ciudad de Oaxaca, por la supercarretera 131-D hasta Nochixtlán. Para llegar, hay que desviarse hacia la carretera federal núm. 190 con destino a Huajuapan de León, hasta entroncar con la población de Yucudaa, y seguir a la izquierda por la carretera federal núm. 125 hasta llegar a Teposcolula​​",
                         state_id: 19)
 
 town69 = MagicTown.create(name: "​​Cuetzalan",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: '​​​Se incorporó al programa Pueblos Mágicos en el año 2002.Este pueblo conserva dos danzas tradicionales que no dejan morir su pasado prehispánico: la Danza de los Quetzales y la Danza de los Voladores. Ambas son rituales dedicados a los dioses, con música, trajes y penachos multicolores.​La zona de Cuetzalan estuvo poblada por aves de maravillosos colores llamadas “quetzales”, cuyas plumas eran entregadas al pueblo azteca como tributo desde los tiempos del emperador Axayácatl, en 1475.​Ése es precisamente uno de los orígenes del nombre de esta población: “lugar abundante de quetzales”',
+                        attractions: "Parroquía de San Francisco.Capilla de la Purisima Concepción o de la Conchita.Santuario de Guadalupe.Palacio Municipal.Casa de la Cultura.Espectáculos típicos",
+                        festivities: "Feria del Huipil y Feria del Café, 4 de octubre: Se celebra a San Francisco de Asís con música tradicional y danzas autóctonas como la de los Voladores, la de los Quetzales, la de los Santiagos y los Toreadores.​Yohualican Kampa To Xolalmej Ilhuitij, se realiza los primeros días de agosto en el sitio arqueológico de Yohualichan.Es un festival que reúne música y danza de distintos pueblos de la región",
+                        location: "El municipio de Cuetzalan del Progreso se localiza en la parte noreste del estado​. Colindancias al Norte: con Jonotla y Tenampulco al Este: con Ayotoxco de Guerrero y Tlatlauquitepec al Sur: con Zacapoaxtla y al Oeste:con Zoqu​iapan",
                         state_id: 20)
 
 town70 = MagicTown.create(name: "​​Zacatlán de las Manzanas​",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2011.Su nombre deriva de los vocablos en náhuatl, zácatl (zacate), y tlan (sufijo de lugar) que significan “lugar donde abundan los zacates”.​Zacatlán es famoso por su antiguo Conjunto Conventual Franciscano y por su tradición relojera que data de inicios del siglo pasado, así como por los paisajes de ensueño cubiertos por la niebla.​Es también uno de los mayores productores de manzanas, razón por la que se conoce como Zacatlán de las Manzanas.​Cada año Zacatlán produce alrededor de 320 mil botellas de sidra rosada, gasificada, dulce, natural, de pera y durazno​",
+                        attractions: "Plaza de Armas.Reloj floral.Parroquía de San Pedro y San Pablo.Museo de Relojería y Autómatas Alberto Olvera.Conjunto Conventual Franciscano ​​​​",
+                        festivities: "Feria de la Manzana, se celebra aproximadamente en la tercera semana de agosto. Con la típica coronación de la Reina, exposiciones de relojes, antojitos, conciertos",
+                        location: "Se localiza en la parte Noroeste del estado​. Sus colindancias son al Norte con Chiconcuautla y Huauchinango, al Sur con Aquixtla y Chignahuapan, al Oeste con Ahuacatlán, Tepetzintla y Tetela de Ocampo​​",
                         state_id: 20)
 
 town71 = MagicTown.create(name: "Pahuatlán",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2012.
+                        Pahuatlán fue parte del señorío del Totonacapan, prueba de ello es la tradicional Danza de los Voladores que continúa llevándose a cabo en este lugar.​En este pueblo aún se conservan muchas tradiciones indígenas, como la figura de los brujos para aliviar diversos males y sanar el espíritu​.
+                        La zona destaca por sus tradicionales curativas y por su gran riqueza artesanal pues sus pobladores siguen elaborando el papel más antiguo del país: el papel amate",
+                        attractions: "Templo de Santiago Apóstol.Beneficio de Don Conche Tellez.Puente Colgante de Miguel Hidalgo y Costilla.Cascada Velo de Novia.​Acalapa.La Trinidad​​​​​",
+                        festivities: "Encuentro Nacional de Voladores, cada noviembre, los Voladores de Papantla, Pahuatlán, Cuetzalan y otros sitios de la región cultural del Totonacapan se reúnen en este Pueblo Mágico para mostrar sus hazañas en una de las danzas mexicanas más antiguas.​Las Huapangueadas, al menos cinco veces al año se llevan a cabo concursos de huapangos y sones huastecos, la música tradicional de esta región.​Fiesta del Señor Santiago, el 25 de julio los habitantes pahuatlenses celebran a su santo patrono con verbenas y presentaciones de los Voladores de Pahuatlán, también conocidos como Tocotines​",
+                        location: "​​Se localiza en la parte noroeste, del estado de Puebla se asienta sobre una pequeña planicie de las laderas del cerro de Ahila. ​Sus colindancias son: al Norte con Tlacuilotepec y el estado de Hidalgo, al Sur con Naupan y el estado de Hidalgo, al Oeste con Naupan y Tlacuilitepec y al Poniente con el estado de Hidalgo y Honey",
                         state_id: 20)
 
 town72 = MagicTown.create(name: "​Chignahuapan",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "​​Se incorporó al programa Pueblos Mágicos en el año 2012.​Chignahuapan es un pintoresco microcosmos donde es posible entrar en contacto tanto con espléndida arquitectura religiosa, como con riquezas naturales.​El municipio es famoso por la elaboración de esferas, ya que hay más de 200 talleres dedicados a esta actividad.​La mejor vista de este Pueblo Mágico se obtiene desde el Cerro Colorado, donde podrás admirar el valle y las casitas de colores y techos de teja",
+                        attractions: "​​​​​Templo de Santiago Apóstol.Basílica de la Inmaculada Concepción.Santuario del Honguito.Laguna de Chignahuapan​",
+                        festivities: "Fiesta del Santo Patrono , se celebrá el 25 ​de julio con procesión desde el Santuario del Honguito hasta el Cerro del Calvario, así como juegos pirotécnicos y comida para todos los visitantes​.El 1 de noviembre se realiza una marcha desde el centro hasta la laguna de Chignahuapan en honor a los difuntos. Ahí se coloca una ofrenda magna repleta de velas, flores y pan",
+                        location: "El municipio de Chignahuapan, se localiza en la parte del estado de puebla. Sus colindancias son al Norte con Zacatlán, al Sur con el estado de Tlaxcala, al Oeste con Zacatlán y Aquixtla y al Poniente con el estado de Hidalgo.",
                         state_id: 20)
 
 town73 = MagicTown.create(name: "Cholula",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id: 20)
 
 town74 = MagicTown.create(name: "Tlatlauquitepec",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id: 20)
 
 town75 = MagicTown.create(name: "​Xicotepec",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id: 20)
 
 town76 = MagicTown.create(name: "Atlixco",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id: 20)
 
 town77 = MagicTown.create(name: "​​Huauchinango​​​​​​​​",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                       festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                       festivities: "",
+                        location: "​​",
                         state_id: 20)
 
 town78 = MagicTown.create(name: "Bernal",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "",
                         state_id: 21)
 
 town79 = MagicTown.create(name: "​Jalpan de Serra",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id: 21)
 
 town80 = MagicTown.create(name: "​Cadereyta",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "",
                         state_id: 21)
 
 town81 = MagicTown.create(name: "​​Tequisquiapan",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "​​",
                         state_id: 21)
 
 town82 = MagicTown.create(name: "​​San Joaquín​​​​​​",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "​​",
                         state_id: 21)
 
 town83 = MagicTown.create(name: "Bacalar",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "",
                         state_id: 22)
 
 town84 = MagicTown.create(name: "​Isla Mujeres",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id: 22)
 
 town85 = MagicTown.create(name: "Tulum",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id: 22)
 
 town86 = MagicTown.create(name: "​Real de Catorce",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id: 23)
 
 town87 = MagicTown.create(name: "Xilitla",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                       festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                       festivities: "",
+                        location: "",
                         state_id: 23)
 
 town88 = MagicTown.create(name: "Cosalá",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id: 24)
 
 town89 = MagicTown.create(name: "El Fuerte",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "",
                         state_id: 24)
 
 town90 = MagicTown.create(name: "El Rosarito",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "​​",
                         state_id: 24)
 
 town91 = MagicTown.create(name: "Mocorito",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id: 24)
 
 town92 = MagicTown.create(name: "Álamos",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id: 25)
 
 town93 = MagicTown.create(name: "Magdalena de Kino",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id: 25)
 
 town94 = MagicTown.create(name: "Tapijulapa",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "​​",
                         state_id: 26)
 
 town95 = MagicTown.create(name: "Mier",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "​​",
                         state_id: 27)
 
 town96 = MagicTown.create(name: "Tula",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id: 27)
 
 town97 = MagicTown.create(name: "Huamantla",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                       festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                       festivities: "",
+                        location: "",
                         state_id: 28)
 
 town98 = MagicTown.create(name: "Tlaxco",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "​​",
                         state_id: 28)
 
 town99 = MagicTown.create(name: "Xico",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "​​",
                         state_id:29)
 
 town100 = MagicTown.create(name: "Coatepec",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id:29)
 
 town101 = MagicTown.create(name: "​​Papantla",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id:29)
 
 town102 = MagicTown.create(name: "Coscomatepec",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id:29)
 
 town103 = MagicTown.create(name: "Orizaba",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id:29)
 
 town104 = MagicTown.create(name: "Zozocolco",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "​​",
                         state_id:29)
 
 town105 = MagicTown.create(name: "Izamal",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id: 30)
 
 town106 = MagicTown.create(name: "Valladolid",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id: 30)
 
 town107 = MagicTown.create(name: "Jerez de García Salinas",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                       festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                       festivities: "",
+                        location: "​​",
                         state_id: 31)
 
 town108 = MagicTown.create(name: "​Teul González Ortega",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id: 31)
 
 town109 = MagicTown.create(name: "Sombrerete",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id: 31)
 
 town110 = MagicTown.create(name: "Pinos",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "",
+                        festivities: "",
+                        location: "​​",
                         state_id: 31)
 
 town111 = MagicTown.create(name: "Nochistlán",
-                        characteristics: "Se incorporó al programa Pueblos Mágicos en el año 2006.​​​​​​Este sencillo pueblo de origen minero tiene muchísima historia, sobre todo si tomam​​os en cuenta ​​​sus pequeñas dimensiones.Sus atractivos son valiosos, pues conserva interesantes muestras de arquitectura y arte virreinal, así como agradables jardines y un invernadero de primera​​​Real de Asientos es 27 años más antiguo que la capital del estado, la ciudad de Aguascalientes, al haberse fundado en 1548.",
-                        attractions: "Parroquia de Nuestra Señora de Belén​.El acueducto escondido de Asientos.​​Santuario de Guadalupe​.​​El Monast​erio Franciscano del siglo XVII​.​​​​​",
-                        festivities: "El ​​Festival de Ogarrio del 27 de marzo al 2 de abril, en el que los catorceños usan ropa del siglo XIX para celebrar el túnel que se inauguró en 1901.​Las fiestas religios​as a San Francisco de Asís en los primeros días de octubre, con miles de peregrinos.​​Fiesta de Nuestra Señora de Belén, se celebran en enero en la parroquia de Nuestra Señora de Belén.​​Fiestas del Señor de Tepozán, se celebran en julio con verbenas populares y actividades religiosas.​Día del minero, se celebrá cada 11 de julio.",
-                        location: "Ubic​​ado en el estado mexicano de Aguascalientes, específicamente en el munici​pio homónimo, del cual es la cabecera.  Se localiza a una distancia d​e 59 km​ de la ciudad cápital del estado, la ciudad de Aguascalien​tes.​​",
+                        characteristics: "",
+                        attractions: "​​​​​",
+                        festivities: "",
+                        location: "",
                         state_id: 31)
 
