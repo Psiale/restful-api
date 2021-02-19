@@ -1,12 +1,15 @@
 class MagicTownsController < ApplicationController
-  before_action :set_state
+  before_action :set_state, except: [:index_no_state]
   before_action :set_magic_town, only: [:show, :update, :destroy]
 
   def index
-    @magic_towns = MagicTown.all
     json_response(@state.magic_towns)
   end
 
+  def index_no_state
+    @magic_towns = MagicTown.all
+    json_response(@magic_towns)
+  end
   def create
     @state.magic_towns.create!(magic_town_params)
     json_response(@state, :created)
