@@ -4,4 +4,8 @@ Rails.application.routes.draw do
     resources :magic_towns, only: [:index, :show]
   end
   get 'magic_towns', to: 'magic_towns#index_no_state'
+
+  post 'auth/login', to: 'authentication#authenticate'
+
+  post 'signup', to: 'users#create'
 end

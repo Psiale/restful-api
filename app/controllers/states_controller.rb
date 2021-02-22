@@ -2,12 +2,12 @@ class StatesController < ApplicationController
   before_action :set_state, only: [:show, :update, :destroy]
 
   def index
-    @states = State.all
+    @states = current_user.states
     json_response(@states)
   end
 
   def create
-    @state = State.create!(state_params)
+    @state = current_user.states.create!(state_params)
     json_response(@state, :created)
   end
 
